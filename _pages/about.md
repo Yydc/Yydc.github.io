@@ -3,7 +3,7 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
@@ -17,42 +17,87 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am Yi Xie, a Ph.D. student in Computer Science & Engineering at the [University of Arizona](https://www.arizona.edu/), advised by [Prof. Bo Liu](https://liubo-lab.github.io/). Previously, I received my M.S. from [Fudan University](https://www.fudan.edu.cn/en/) (advised by Prof. Zhongxue Gan) and dual B.S. degrees from [Beijing University of Chemical Technology](https://www.buct.edu.cn/).
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research focuses on:
+- **Multi-agent LLM reasoning and post-training** (RL, trust regions, theoretical guarantees)
+- **Reliable reasoning evaluation:** math / planning / active reasoning benchmarks
+- **Code reasoning:** traceable multi-turn debugging and decoding control
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.01*: &nbsp;🎉 Our paper "SAT: Sequential Agent Tuning" is accepted at **AAMAS 2026**!
+- *2025.09*: &nbsp;🎉 Started my Ph.D. at the University of Arizona!
+- *2025.05*: &nbsp;🎉 Our paper "From Debate to Equilibrium" is accepted at **ICML 2025**!
+- *2025.01*: &nbsp;🎉 Two papers accepted at **AAMAS 2025**!
 
-# 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+# 📝 Publications
+
+## LLM Reasoning & Multi-Agent LLMs
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**SAT: Sequential Agent Tuning for Coordinator-Free Plug-and-Play Multi-LLM Training with Monotonic Improvement Guarantees**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yi Xie**, Yangyang Xu, Fan Yi, Bo Liu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+AAMAS 2026 (accepted)
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**From Debate to Equilibrium: Belief-Driven Multi-Agent LLM Reasoning via Bayesian Nash Equilibrium**
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Yi Xie**, Zhanke Zhou, Chentao Cao, Qiyu Niu, Tongliang Liu, Bo Han
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+ICML 2025 (accepted)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+</div>
+</div>
+
+## Multi-Agent RL & Robotics
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ACORN: Acyclic Coordination with Reachability Network to Reduce Communication Redundancy in Multi-Agent Systems**
+
+**Yi Xie**, Ziqing Zhou, Chun Ouyang, Siao Liu, Zhile Zhao, Zhongxue Gan
+
+AAMAS 2025
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Heuristics-Assisted Experience Replay Strategy for Cooperative Multi-Agent Reinforcement Learning**
+
+**Yi Xie**, Ziqing Zhou, Chun Ouyang, Siao Liu, Zhile Zhao, Zhongxue Gan
+
+AAMAS 2025
+
+</div>
+</div>
+
+- **Improving Robotic Grasp Detection Under Sparse Annotations via Grasp Transformer with Pixel-Wise Contrastive Learning**, Siao Liu, Yang Liu, Zhaoyu Chen, Ziqing Zhou, Zhile Zhao, **Yi Xie**, Wei Li, Zhongxue Gan. *IEEE Transactions on Industrial Electronics, 2025*
+
+- **A Framework for Dynamical Distributed Flocking Control in Dense Environments**, Ziqing Zhou, Chun Ouyang, Linqiang Hu, **Yi Xie**, Yuning Chen, Zhongxue Gan. *Expert Systems with Applications, 2023*
+
+- **Improving Generalization in Visual Reinforcement Learning via Conflict-aware Gradient Agreement Augmentation**, Siao Liu, Zhaoyu Chen, Yang Liu, Yuzheng Wang, Dingkang Yang, Zhile Zhao, Ziqing Zhou, **Yi Xie**, Wei Li, Wenqiang Zhang, Zhongxue Gan. *ICCV 2023*
+
+
+# 📖 Education
+- *2025.09 - present*, Ph.D. Student in Computer Science & Engineering, University of Arizona. Advisor: [Bo Liu](https://liubo-lab.github.io/).
+- *2022.09 - 2025.06*, M.S. in Mechanical & Electrical Engineering, Fudan University. Advisor: Zhongxue Gan.
+- *2017.09 - 2022.06*, B.S. in Mechanical & Electrical Engineering & B.S. in Economic Management (Dual Degree), Beijing University of Chemical Technology.
+
+
+# 💻 Service
+- **Reviewer:** NeurIPS 2024; ICLR 2025, 2026; ICML 2025, 2026; COLM 2025
