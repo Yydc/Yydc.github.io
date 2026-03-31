@@ -26,17 +26,16 @@ My research focuses on:
 
 
 # 🔥 News
-- *2026.01*: &nbsp;🎉 Our paper "SAT: Sequential Agent Tuning" is accepted at **AAMAS 2026**!
-- *2025.09*: &nbsp;🎉 Started my Ph.D. at the University of Arizona!
-- *2025.05*: &nbsp;🎉 Our paper "From Debate to Equilibrium" is accepted at **ICML 2025**!
-- *2025.01*: &nbsp;🎉 Two papers accepted at **AAMAS 2025**!
+- *2026.01*:  Our paper "SAT: Sequential Agent Tuning" is accepted at **AAMAS 2026**!
+- *2025.09*:  Started my Ph.D. at the University of Arizona!
+- *2025.05*:  Our paper "From Debate to Equilibrium" is accepted at **ICML 2025**!
+- *2025.01*:  Two papers accepted at **AAMAS 2025**!
 
 
-# 📝 Publications
+# 📝 Selected Publications
 
-## LLM Reasoning & Multi-Agent LLMs
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2026</div><img src='images/SAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SAT: Sequential Agent Tuning for Coordinator-Free Plug-and-Play Multi-LLM Training with Monotonic Improvement Guarantees**
@@ -48,7 +47,7 @@ AAMAS 2026 (accepted)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/from.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **From Debate to Equilibrium: Belief-Driven Multi-Agent LLM Reasoning via Bayesian Nash Equilibrium**
@@ -60,9 +59,9 @@ ICML 2025 (accepted)
 </div>
 </div>
 
-## Multi-Agent RL & Robotics
+## Multi-Agent RL
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2025</div><img src='images/ACORN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ACORN: Acyclic Coordination with Reachability Network to Reduce Communication Redundancy in Multi-Agent Systems**
@@ -74,32 +73,24 @@ AAMAS 2025
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2025</div><img src='images/TIE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-**Heuristics-Assisted Experience Replay Strategy for Cooperative Multi-Agent Reinforcement Learning**
-
-**Yi Xie**, Ziqing Zhou, Chun Ouyang, Siao Liu, Zhile Zhao, Zhongxue Gan
-
-AAMAS 2025
-
-</div>
-</div>
 
 - **Improving Robotic Grasp Detection Under Sparse Annotations via Grasp Transformer with Pixel-Wise Contrastive Learning**, Siao Liu, Yang Liu, Zhaoyu Chen, Ziqing Zhou, Zhile Zhao, **Yi Xie**, Wei Li, Zhongxue Gan. *IEEE Transactions on Industrial Electronics, 2025*
 
-- **A Framework for Dynamical Distributed Flocking Control in Dense Environments**, Ziqing Zhou, Chun Ouyang, Linqiang Hu, **Yi Xie**, Yuning Chen, Zhongxue Gan. *Expert Systems with Applications, 2023*
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2025</div><img src='images/ICCV.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 - **Improving Generalization in Visual Reinforcement Learning via Conflict-aware Gradient Agreement Augmentation**, Siao Liu, Zhaoyu Chen, Yang Liu, Yuzheng Wang, Dingkang Yang, Zhile Zhao, Ziqing Zhou, **Yi Xie**, Wei Li, Wenqiang Zhang, Zhongxue Gan. *ICCV 2023*
 
-
-# 📖 Education
-- *2025.09 - present*, Ph.D. Student in Computer Science & Engineering, University of Arizona. Advisor: [Bo Liu](https://liubo-lab.github.io/).
-- *2022.09 - 2025.06*, M.S. in Mechanical & Electrical Engineering, Fudan University. Advisor: Zhongxue Gan.
-- *2017.09 - 2022.06*, B.S. in Mechanical & Electrical Engineering & B.S. in Economic Management (Dual Degree), Beijing University of Chemical Technology.
-
+</div>
+</div>
 
 # 💻 Service
-- **Reviewer:** NeurIPS 2024; ICLR 2025, 2026; ICML 2025, 2026; COLM 2025
+- **Reviewer:** NeurIPS 2024, 2025, 2026; ICLR 2025, 2026; ICML 2025, 2026; COLM 2025
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=I-2ym-sRZlgMY4E2tcqTODhWC0SUf84sKHLZviBEY5s&cl=ffffff&w=a"></script>
