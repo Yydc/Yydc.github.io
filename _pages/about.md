@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yi Xie, a Ph.D. student in Computer Science & Engineering at the [University of Arizona](https://www.arizona.edu/), advised by [Prof. Bo Liu](https://liubo-lab.github.io/). Previously, I received my M.S. from [Fudan University](https://www.fudan.edu.cn/en/) (advised by Prof. Zhongxue Gan) and dual B.S. degrees from [Beijing University of Chemical Technology](https://www.buct.edu.cn/). I also work closely with [Prof. Bo Han](https://bhanml.github.io/) at Hong Kong Baptist University.
+I am Yi Xie, a Ph.D. student in Computer Science & Engineering at the [University of Arizona](https://www.arizona.edu/), advised by [Prof. Bo Liu](https://ergodicmarkovian.github.io/main/). Previously, I received my M.S. from [Fudan University](https://www.fudan.edu.cn/en/) (advised by Prof. Zhongxue Gan) and dual B.S. degrees from [Beijing University of Chemical Technology](https://www.buct.edu.cn/). I also work closely with [Prof. Bo Han](https://bhanml.github.io/) at Hong Kong Baptist University.
 
 My research centers on **building reliable and principled multi-agent LLM systems** — from post-training with theoretical guarantees to trustworthy evaluation and code reasoning. I aim to develop LLM agents that can reason collaboratively, be rigorously evaluated, and solve complex real-world problems. My work spans three directions:
 
@@ -26,7 +26,7 @@ My research centers on **building reliable and principled multi-agent LLM system
 - **Reliable Reasoning Evaluation:** Where are the boundaries of LLM reasoning, and how do we measure them faithfully?
 [[HASTE]](https://arxiv.org/pdf/PLACEHOLDER)
 - **Code Reasoning:** How can LLMs debug and generate code with traceable, controllable reasoning?
-[[CodeDebug]](https://arxiv.org/pdf/PLACEHOLDER)
+[[Tracebench]](https://arxiv.org/pdf/PLACEHOLDER)
 
 I welcome collaborations in multi-agent LLM systems, reasoning evaluation, and code intelligence. Feel free to reach out via email.
 
