@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yi Xie"
-  avatar           : "images/avatar.png"
+  avatar           : "images/potrait.jpg"
   bio              : "Ph.D. Student at University of Arizona"
   location         : "Tucson, AZ"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=PLACEHOLDER_ID"
-  email            : "yydc1@outlook.com"
+  googlescholar    : "https://scholar.google.com/citations?user=o91h358AAAAJ&hl"
+  email            : "yix@arizona.edu"
   researchgate     :
   uri              :
   bitbucket        :
