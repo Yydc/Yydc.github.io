@@ -52,7 +52,7 @@ E-mail: yix [at] arizona.edu
 
 AAMAS 2026 (accepted)
 
-[[paper]](https://arxiv.org/pdf/PLACEHOLDER) [[code]](https://github.com/PLACEHOLDER)
+[[paper]](https://arxiv.org/pdf/PLACEHOLDER) [[code]](https://github.com/Yydc/SAT-AAMAS)
 
 </div>
 </div>
@@ -81,7 +81,7 @@ ICML 2025 (accepted)
 
 AAMAS 2025
 
-[[paper]](https://arxiv.org/pdf/PLACEHOLDER) [[code]](https://github.com/PLACEHOLDER)
+[[paper]](https://ifaamas.csc.liv.ac.uk/Proceedings/aamas2025/pdfs/p2190.pdf) [[code]](https://github.com/Yydc/HARL)
 
 </div>
 </div>
@@ -91,6 +91,7 @@ AAMAS 2025
 <div class='paper-box-text' markdown="1">
 
 **Improving Robotic Grasp Detection Under Sparse Annotations via Grasp Transformer with Pixel-Wise Contrastive Learning**, Siao Liu, Yang Liu, Zhaoyu Chen, Ziqing Zhou, Zhile Zhao, **Yi Xie**, Wei Li, Zhongxue Gan. *IEEE Transactions on Industrial Electronics, 2025*
+[[paper]](https://ieeexplore.ieee.org/abstract/document/11039728) 
 
 </div>
 </div>
@@ -99,7 +100,7 @@ AAMAS 2025
 <div class='paper-box-text' markdown="1">
 
 **Improving Generalization in Visual Reinforcement Learning via Conflict-aware Gradient Agreement Augmentation**, Siao Liu, Zhaoyu Chen, Yang Liu, Yuzheng Wang, Dingkang Yang, Zhile Zhao, Ziqing Zhou, **Yi Xie**, Wei Li, Wenqiang Zhang, Zhongxue Gan. *ICCV 2023*
-[[paper]](https://arxiv.org/pdf/PLACEHOLDER) [[code]](https://github.com/PLACEHOLDER)
+[[paper]](https://arxiv.org/abs/2308.01194) 
 
 </div>
 </div>
