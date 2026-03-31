@@ -17,12 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Yi Xie, a Ph.D. student in Computer Science & Engineering at the [University of Arizona](https://www.arizona.edu/), advised by [Prof. Bo Liu](https://liubo-lab.github.io/). Previously, I received my M.S. from [Fudan University](https://www.fudan.edu.cn/en/) (advised by Prof. Zhongxue Gan) and dual B.S. degrees from [Beijing University of Chemical Technology](https://www.buct.edu.cn/).
+I am Yi Xie, a Ph.D. student in Computer Science & Engineering at the [University of Arizona](https://www.arizona.edu/), advised by [Prof. Bo Liu](https://liubo-lab.github.io/). Previously, I received my M.S. from [Fudan University](https://www.fudan.edu.cn/en/) (advised by Prof. Zhongxue Gan) and dual B.S. degrees from [Beijing University of Chemical Technology](https://www.buct.edu.cn/). I also work closely with [Prof. Bo Han](https://bhanml.github.io/) at Hong Kong Baptist University.
 
-My research focuses on:
-- **Multi-agent LLM reasoning and post-training** (RL, trust regions, theoretical guarantees)
-- **Reliable reasoning evaluation:** math / planning / active reasoning benchmarks
-- **Code reasoning:** traceable multi-turn debugging and decoding control
+My research centers on **building reliable and principled multi-agent LLM systems** — from post-training with theoretical guarantees to trustworthy evaluation and code reasoning. I aim to develop LLM agents that can reason collaboratively, be rigorously evaluated, and solve complex real-world problems. My work spans three directions:
+
+- **Multi-Agent LLM Reasoning & Post-Training:** How can multiple LLMs collaborate and improve with provable guarantees?
+[[SAT]](https://arxiv.org/pdf/PLACEHOLDER) [[ECON]](https://arxiv.org/pdf/2506.08292)
+- **Reliable Reasoning Evaluation:** Where are the boundaries of LLM reasoning, and how do we measure them faithfully?
+[[HASTE]](https://arxiv.org/pdf/PLACEHOLDER)
+- **Code Reasoning:** How can LLMs debug and generate code with traceable, controllable reasoning?
+[[CodeDebug]](https://arxiv.org/pdf/PLACEHOLDER)
+
+I welcome collaborations in multi-agent LLM systems, reasoning evaluation, and code intelligence. Feel free to reach out via email.
+
+E-mail: yydc1 [at] outlook.com
 
 
 # 🔥 News
@@ -64,7 +72,7 @@ ICML 2025 (accepted)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2025</div><img src='images/ACORN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2025</div><img src='images/ACORN.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ACORN: Acyclic Coordination with Reachability Network to Reduce Communication Redundancy in Multi-Agent Systems**
