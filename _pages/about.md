@@ -30,7 +30,7 @@ My research centers on **building reliable and principled multi-agent LLM system
 
 I welcome collaborations in multi-agent LLM systems, reasoning evaluation, and code intelligence. Feel free to reach out via email.
 
-E-mail: yydc1 [at] outlook.com
+E-mail: yix [at] arizona.edu
 
 
 # 🔥 News
