@@ -106,7 +106,7 @@ AAMAS 2025
 </div>
 
 # 💻 Service
-- **Reviewer:** NeurIPS 2024, 2025, 2026; ICLR 2025, 2026; ICML 2025, 2026; COLM 2025
-
+- **Conference Reviewer:** NeurIPS 2024, 2025, 2026; ICLR 2025, 2026; ICML 2025, 2026; COLM 2025
+- **Journal Reviewer:** KBS, IEEE TII, IEEE TNNLS
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=I-2ym-sRZlgMY4E2tcqTODhWC0SUf84sKHLZviBEY5s&cl=ffffff&w=200"></script>
 
