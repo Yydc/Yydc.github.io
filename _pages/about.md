@@ -50,9 +50,7 @@ E-mail: yix [at] arizona.edu
 
 **Yi Xie**, Yangyang Xu, Fan Yi, Bo Liu
 
-AAMAS 2026 (accepted)
-
-[[paper]](https://arxiv.org/pdf/PLACEHOLDER) [[code]](https://github.com/Yydc/SAT-AAMAS)
+AAMAS 2026 [[paper]](https://arxiv.org/pdf/PLACEHOLDER) [[code]](https://github.com/Yydc/SAT-AAMAS)
 
 </div>
 </div>
@@ -64,9 +62,7 @@ AAMAS 2026 (accepted)
 
 **Yi Xie**, Zhanke Zhou, Chentao Cao, Qiyu Niu, Tongliang Liu, Bo Han
 
-ICML 2025 (accepted)
-
-[[paper]](https://arxiv.org/pdf/2506.08292) [[code]](https://github.com/tmlr-group/ECON)
+ICML 2025 [[paper]](https://arxiv.org/pdf/2506.08292) [[code]](https://github.com/tmlr-group/ECON)
 
 </div>
 </div>
@@ -79,9 +75,7 @@ ICML 2025 (accepted)
 
 **Yi Xie**, Ziqing Zhou, Chun Ouyang, Siao Liu, Zhile Zhao, Zhongxue Gan
 
-AAMAS 2025
-
-[[paper]](https://ifaamas.csc.liv.ac.uk/Proceedings/aamas2025/pdfs/p2190.pdf) [[code]](https://github.com/Yydc/HARL)
+AAMAS 2025 [[paper]](https://ifaamas.csc.liv.ac.uk/Proceedings/aamas2025/pdfs/p2190.pdf) [[code]](https://github.com/Yydc/HARL)
 
 </div>
 </div>
@@ -90,8 +84,9 @@ AAMAS 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIE</div><img src='images/TIE.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Improving Robotic Grasp Detection Under Sparse Annotations via Grasp Transformer with Pixel-Wise Contrastive Learning**, Siao Liu, Yang Liu, Zhaoyu Chen, Ziqing Zhou, Zhile Zhao, **Yi Xie**, Wei Li, Zhongxue Gan. *IEEE Transactions on Industrial Electronics, 2025*
-[[paper]](https://ieeexplore.ieee.org/abstract/document/11039728) 
+**Improving Robotic Grasp Detection Under Sparse Annotations via Grasp Transformer with Pixel-Wise Contrastive Learning**, Siao Liu, Yang Liu, Zhaoyu Chen, Ziqing Zhou, Zhile Zhao, **Yi Xie**, Wei Li, Zhongxue Gan. 
+
+IEEE Transactions on Industrial Electronics, 2025 [[paper]](https://ieeexplore.ieee.org/abstract/document/11039728) 
 
 </div>
 </div>
@@ -99,8 +94,9 @@ AAMAS 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/ICCV.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Improving Generalization in Visual Reinforcement Learning via Conflict-aware Gradient Agreement Augmentation**, Siao Liu, Zhaoyu Chen, Yang Liu, Yuzheng Wang, Dingkang Yang, Zhile Zhao, Ziqing Zhou, **Yi Xie**, Wei Li, Wenqiang Zhang, Zhongxue Gan. *ICCV 2023*
-[[paper]](https://arxiv.org/abs/2308.01194) 
+**Improving Generalization in Visual Reinforcement Learning via Conflict-aware Gradient Agreement Augmentation**, Siao Liu, Zhaoyu Chen, Yang Liu, Yuzheng Wang, Dingkang Yang, Zhile Zhao, Ziqing Zhou, **Yi Xie**, Wei Li, Wenqiang Zhang, Zhongxue Gan. 
+
+ICCV 2023 [[paper]](https://arxiv.org/abs/2308.01194) 
 
 </div>
 </div>
