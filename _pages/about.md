@@ -99,6 +99,7 @@ AAMAS 2025
 <div class='paper-box-text' markdown="1">
 
 - **Improving Generalization in Visual Reinforcement Learning via Conflict-aware Gradient Agreement Augmentation**, Siao Liu, Zhaoyu Chen, Yang Liu, Yuzheng Wang, Dingkang Yang, Zhile Zhao, Ziqing Zhou, **Yi Xie**, Wei Li, Wenqiang Zhang, Zhongxue Gan. *ICCV 2023*
+[[paper]](https://arxiv.org/pdf/PLACEHOLDER) [[code]](https://github.com/PLACEHOLDER)
 
 </div>
 </div>
@@ -107,3 +108,4 @@ AAMAS 2025
 - **Reviewer:** NeurIPS 2024, 2025, 2026; ICLR 2025, 2026; ICML 2025, 2026; COLM 2025
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=I-2ym-sRZlgMY4E2tcqTODhWC0SUf84sKHLZviBEY5s&cl=ffffff&w=200"></script>
+[[paper]](https://arxiv.org/pdf/PLACEHOLDER) [[code]](https://github.com/PLACEHOLDER)
