@@ -23,7 +23,7 @@ My research centers on **building reliable and principled multi-agent LLM system
 
 - **Multi-Agent LLM Reasoning & Post-Training:** How can multiple LLMs collaborate and improve with provable guarantees?
 - **Reliable Reasoning Evaluation:** Where are the boundaries of LLM reasoning, and how do we measure them faithfully?
-- **Code Reasoning:** How can LLMs debug and generate code with traceable, controllable reasoning?
+- **Agentic Training:** How can LLMs work with traceable, controllable reasoning in long trajectory for real world task?
 
 I welcome collaborations in multi-agent LLM systems, reasoning evaluation, and code intelligence. Feel free to reach out via email.
 
