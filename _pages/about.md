@@ -22,11 +22,8 @@ I am Yi Xie, a Ph.D. student in Computer Science & Engineering at the [Universit
 My research centers on **building reliable and principled multi-agent LLM systems** — from post-training with theoretical guarantees to trustworthy evaluation and code reasoning. I aim to develop LLM agents that can reason collaboratively, be rigorously evaluated, and solve complex real-world problems. My work spans three directions:
 
 - **Multi-Agent LLM Reasoning & Post-Training:** How can multiple LLMs collaborate and improve with provable guarantees?
-[[SAT]](https://arxiv.org/pdf/PLACEHOLDER) [[ECON]](https://arxiv.org/pdf/2506.08292)
 - **Reliable Reasoning Evaluation:** Where are the boundaries of LLM reasoning, and how do we measure them faithfully?
-[[HASTE]](https://arxiv.org/pdf/PLACEHOLDER)
 - **Code Reasoning:** How can LLMs debug and generate code with traceable, controllable reasoning?
-[[Tracebench]](https://arxiv.org/pdf/PLACEHOLDER)
 
 I welcome collaborations in multi-agent LLM systems, reasoning evaluation, and code intelligence. Feel free to reach out via email.
 
