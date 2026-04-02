@@ -31,6 +31,7 @@ E-mail: yix [at] arizona.edu
 
 
 # 🔥 News
+- *2026.03*:  Our paper "Modality Dominance-Aware Optimization for Embodied RGB–Infrared Perception" is accepted at **ICME 2026** as <span style="color:red">**[Spotlight]**</span>!
 - *2026.01*:  Our paper "SAT: Sequential Agent Tuning" is accepted at **AAMAS 2026**!
 - *2025.09*:  Started my Ph.D. at the University of Arizona!
 - *2025.05*:  Our paper "From Debate to Equilibrium" is accepted at **ICML 2025**!
