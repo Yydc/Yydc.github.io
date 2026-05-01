@@ -31,6 +31,7 @@ E-mail: yix [at] arizona.edu
 
 
 # 🔥 News
+- *2026.05*:  "TeamTR" is accepted at **ICML 2026**! Will update at arxiv soon.
 - *2026.03*:  "Modality Dominance-Aware Optimization for Embodied RGB–Infrared Perception" is accepted at **ICME 2026** as *[Spotlight]*
 - *2026.01*:  "SAT: Sequential Agent Tuning" is accepted at **AAMAS 2026**!
 - *2025.09*:  Started my Ph.D. at the University of Arizona!
