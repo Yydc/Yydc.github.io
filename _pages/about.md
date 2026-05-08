@@ -33,7 +33,7 @@ E-mail: yix [at] arizona.edu
 # 🔥 News
 - *2026.05*:  "TeamTR" is accepted at **ICML 2026**! Will update at arxiv soon.
 - *2026.03*:  "Modality Dominance-Aware Optimization for Embodied RGB–Infrared Perception" is accepted at **ICME 2026** as *[Spotlight]*
-- *2026.01*:  "SAT: Sequential Agent Tuning" is accepted at **AAMAS 2026**!
+- *2026.01*:  "SAT: Sequential Agent Tuning" is accepted at **AAMAS 2026**! Preprint and code are released.
 - *2025.09*:  Started my Ph.D. at the University of Arizona!
 - *2025.05*:  "From Debate to Equilibrium" is accepted at **ICML 2025**!
 - *2025.01*:  Two papers accepted at **AAMAS 2025**!
@@ -49,7 +49,7 @@ E-mail: yix [at] arizona.edu
 
 **Yi Xie**, Yangyang Xu, Fan Yi, Bo Liu
 
-AAMAS 2026 [[paper]](https://arxiv.org/pdf/PLACEHOLDER) [[code]](https://github.com/Yydc/SAT-AAMAS)
+AAMAS 2026 [[paper]](https://arxiv.org/pdf/2605.05216) [[code]](https://github.com/Yydc/SAT-AAMAS)
 
 </div>
 </div>
