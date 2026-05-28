@@ -31,9 +31,9 @@ E-mail: yix [at] arizona.edu
 
 
 # 🔥 News
-- *2026.05*:  "TeamTR" is accepted at **ICML 2026**! Will update at arxiv soon.
+- *2026.05*:  "TeamTR" is accepted at **ICML 2026**! Preprint and code are released.
 - *2026.03*:  "Modality Dominance-Aware Optimization for Embodied RGB–Infrared Perception" is accepted at **ICME 2026** as *[Spotlight]*
-- *2026.01*:  "SAT: Sequential Agent Tuning" is accepted at **AAMAS 2026**! Preprint and code are released.
+- *2026.01*:  "SAT: Sequential Agent Tuning" is accepted at **AAMAS 2026** as*[oral presentation]*! Preprint and code are released.
 - *2025.09*:  Started my Ph.D. at the University of Arizona!
 - *2025.05*:  "From Debate to Equilibrium" is accepted at **ICML 2025**!
 - *2025.01*:  Two papers accepted at **AAMAS 2025**!
@@ -41,9 +41,23 @@ E-mail: yix [at] arizona.edu
 
 # 📝 Selected Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/TeamTR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**TeamTR: Trust-Region Fine-Tuning for Multi-Agent LLM Coordination**
+
+**Yi Xie**, Siao Liu, Falong Fan, Yuanqi Yao, Yue Zhao, Bo Liu
+
+ICML 2026 [[paper]](https://arxiv.org/pdf/2605.15207) [[code]](https://github.com/Yydc/TeamTR)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAMAS 2026</div><img src='images/SAT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+
+
 
 **SAT: Sequential Agent Tuning for Coordinator-Free Plug-and-Play Multi-LLM Training with Monotonic Improvement Guarantees**
 
@@ -104,4 +118,3 @@ ICCV 2023 [[paper]](https://arxiv.org/abs/2308.01194)
 - **Conference Reviewer:** NeurIPS 2024, 2025, 2026; ICLR 2025, 2026; ICML 2025, 2026; COLM 2025
 - **Journal Reviewer:** KBS, IEEE TII, IEEE TNNLS
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=I-2ym-sRZlgMY4E2tcqTODhWC0SUf84sKHLZviBEY5s&cl=ffffff&w=200"></script>
-
