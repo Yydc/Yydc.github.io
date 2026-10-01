@@ -31,6 +31,7 @@ E-mail: yix [at] arizona.edu
 
 
 # 🔥 News
+- *2026.10*: "Bayes-Sufficient Compression Is Not Enough" is accepted at **NeurIPS 2026**! The arXiv version will be updated soon.
 - *2026.05*:  "TeamTR" is accepted at **ICML 2026**! Preprint and code are released.
 - *2026.03*:  "Modality Dominance-Aware Optimization for Embodied RGB–Infrared Perception" is accepted at **ICME 2026** as *[Spotlight]*
 - *2026.01*:  "SAT: Sequential Agent Tuning" is accepted at **AAMAS 2026** as*[oral presentation]*! Preprint and code are released.
@@ -40,6 +41,18 @@ E-mail: yix [at] arizona.edu
 
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2026</div><img src='images/bounded-communication-teaser.png' alt="An umbrella example illustrating that Bayes-sufficient messages may not be receiver-usable" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Bayes-Sufficient Compression Is Not Enough: How Communication Helps in Multi-Agent Systems?**
+
+**Yi Xie**, Zhanke Zhou, Yi Fan, Yong Ge, Bo Han, Bo Liu
+
+NeurIPS 2026. The arXiv version will be updated soon.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/TeamTR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
